@@ -1,4 +1,4 @@
-Python File Organizer Lab
+## Python File Organizer Lab
 
 This Python script demonstrates how to organize media files using basic file and directory operations. It uses the `os` and `shutil` modules to move files into folders based on their type — images, videos, or documents.
 
